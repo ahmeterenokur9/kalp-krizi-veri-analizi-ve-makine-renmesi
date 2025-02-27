@@ -1,11 +1,10 @@
-Gözetimli Öğrenme: veride belirgin bir hedef değişkeni olduğu için veri seti üzerinde daha etkili çalışmıştır. Hedef değişken olan kalp krizi durumu net olduğu için sınıflandırma sonuçları anlamlı çıkmıştır.
+Supervised Learning: Since there is a clear target variable in the data, it has performed more effectively on the dataset. The classification results were meaningful because the target variable, heart attack status, was well-defined.
 
-Gözetimsiz Öğrenme: veri kümesindeki doğal yapıları keşfetmek için etkili olsa da, gürültü ve uç değerler nedeniyle daha az belirgin sonuçlar üretmiştir. Ancak bu yöntem, önceden etiketlenmemiş veri kümeleri için kullanılabilir ve veri seti içindeki gizli yapıları keşfetmek için faydalıdır.
+Unsupervised Learning: While effective in discovering natural structures in the dataset, it produced less distinct results due to noise and outliers. However, this method can be useful for exploring hidden patterns in unlabeled datasets.
 
-Sonuç:
-Bu projede, iki farklı öğrenme türünü aynı veri seti üzerinde denedik ve her birinin farklı avantajlarını ve sınırlamalarını gözlemledik. Gözetimli öğrenme, belirli bir hedef değişkeni olan veri setlerinde daha etkili sonuçlar verirken, gözetimsiz öğrenme, veri içindeki doğal yapıları keşfetmek ve özellikle etiketlenmemiş verilerle çalışmak için daha uygundur.
+Conclusion: In this project, we applied two different learning approaches to the same dataset and observed their respective advantages and limitations. Supervised learning yields more effective results when a specific target variable is present, whereas unsupervised learning is more suitable for discovering natural patterns in data and working with unlabeled datasets.
 
-Bu veri seti, özellikle sağlık durumu ve kalp krizi gibi önemli olayları sınıflandırmak için daha çok gözetimli öğrenme algoritmalarıyla uyumludur.
+This dataset is particularly compatible with supervised learning algorithms, especially for classifying critical events such as health conditions and heart attacks.
 
 
 kaggle link: https://www.kaggle.com/code/ahmeteren9/ahmet-eren-aygaz-bootcamp
